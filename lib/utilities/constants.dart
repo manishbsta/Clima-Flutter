@@ -25,6 +25,7 @@ const kTextFieldDecorationStyle = InputDecoration(
   icon: Icon(
     Icons.location_city,
     color: Colors.white,
+    size: 35.0,
   ),
   hintText: 'Enter city name',
   hintStyle: TextStyle(
